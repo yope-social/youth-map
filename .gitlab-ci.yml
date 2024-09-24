@@ -1,0 +1,121 @@
+---
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+default:
+  image: docker-registry.eccenca.com/eccenca-python:v3.11.9
+  # all jobs can be interrupted in case a new commit is pushed
+  interruptible: true
+  before_script:
+    # make sure poetry creates virtual environment as .venv
+    - poetry config virtualenvs.in-project true
+  cache:
+    # cache the virtual environment based on the poetry lock file
+    key:
+      files:
+        - poetry.lock
+    paths:
+      - .venv
+
+stages:
+  - test
+  - build
+  - publish
+
+ruff:
+  stage: test
+  script:
+    - task check:ruff
+  artifacts:
+    when: always
+    reports:
+      junit:
+        - dist/junit-ruff.xml
+
+mypy:
+  stage: test
+  script:
+    - task check:mypy
+  artifacts:
+    when: always
+    reports:
+      junit:
+        - dist/junit-mypy.xml
+
+pytest:
+  stage: test
+  coverage: '/(?i)total.*? (100(?:\.0+)?\%|[1-9]?\d(?:\.\d+)?\%)$/'
+  script:
+    - task check:pytest
+  artifacts:
+    when: always
+    reports:
+      coverage_report:
+        coverage_format: cobertura
+        path: dist/coverage.xml
+      junit:
+        - dist/junit-pytest.xml
+    paths:
+      - dist/badge-coverage.svg
+      - dist/badge-tests.svg
+      - dist/coverage
+      - dist/coverage.xml
+
+safety:
+  stage: test
+  script:
+    - task check:safety
+
+build:
+  stage: build
+  needs:
+    - mypy
+    - pytest
+    - safety
+  script:
+    - task build
+  artifacts:
+    when: always
+    paths:
+      - dist/*.tar.gz
+      - dist/*.whl
+      - dist/requirements.txt
+
+pypi:
+  # publishing only available on a tag
+  stage: publish
+  needs:
+    - ruff
+    - build
+  allow_failure: true
+  when: manual
+  script:
+    - poetry config pypi-token.pypi $PYPI_TOKEN
+    - poetry publish
+
+docker:
+  stage: publish
+  only:
+    - develop
+    - master
+    - /^release.*/
+    - /^feature.*/
+    - /^bugfix.*/
+    - /^fix.*/
+  tags:
+    - shell-vpn
+  needs:
+    - job: build
+      artifacts: true
+  before_script:
+    - ls -l dist
+  script:
+    - task custom:docker:prepare
+    - make -C docker build check-security push
+  artifacts:
+    when: always
+    reports:
+      junit: docker/trivy-security-scan-results.xml
+    paths:
+      - docker/trivy-security-scan-results.html
+

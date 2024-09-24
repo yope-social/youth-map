@@ -1,0 +1,62 @@
+# https://taskfile.dev
+---
+version: '3'
+
+tasks:
+
+  run:
+    desc: start the app
+    cmds:
+      - poetry install
+      - poetry run reflex run
+
+  run:debug:
+    desc: start the app --loglevel debug
+    cmds:
+      - poetry install
+      - poetry run reflex run
+
+  docker:prepare:
+    desc: prepare docker/app directory (needs a build)
+    cmds:
+      - rm -rf {{.APP_DIR}}
+      - mkdir {{.APP_DIR}}
+      - cp -R dist rxconfig.py {{.PACKAGE}} pyproject.toml assets {{.APP_DIR}}
+    vars:
+      APP_DIR: docker/app
+
+  data:project:export:
+    desc: Export the project
+    cmds:
+      - >
+        cmemc project export
+        --overwrite
+        --output-dir .
+        -t \{\{id\}\}.project
+        youth-map
+
+  data:project:import:
+    desc: Import the project
+    cmds:
+      - >
+        cmemc project import
+        --overwrite
+        youth-map.project.zip
+
+  data:update:
+    desc: Update the location.json
+    cmds:
+      - >
+        cmemc workflow io
+        youth-map:create-json-dump
+        --output-mimetype application/x-plugin-json
+        --output youth_map/data/locations.json
+
+  requirements:export:
+    desc: Export dependencies to requirements.txt
+    cmds:
+      - >
+        poetry export
+        --only main
+        --output requirements.txt
+

@@ -1,0 +1,4 @@
+[submodule "docker/includes"]
+	path = docker/includes
+	url = ../../devops/docker-includes.git
+	branch = master
