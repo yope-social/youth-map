@@ -31,10 +31,10 @@ for location in parsed_json:
     except ValidationError as error:
         all_errors = error.errors()
         other_errors = []
-        missing_fields = []
+        missing_fields: list[str] = []
         for _ in error.errors():
             if _["msg"] == "field required":
-                missing_fields.extend(_["loc"])
+                missing_fields.extend([str(field) for field in _["loc"]])
             else:
                 other_errors.append(_)
         logger.warning(

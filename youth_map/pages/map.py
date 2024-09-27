@@ -27,24 +27,14 @@ def get_popup(location: Location) -> rx.Component:
 
 def get_marker(location: Location) -> rx.Component:
     """Get marker for a location"""
-    return marker(
-        get_popup(location),
-        position=[location.lat, location.long]
-    )
+    return marker(get_popup(location), position=[location.lat, location.long])
 
 
 def get_markers(area: str | None = None) -> list[rx.Component]:
     """Get the map marker"""
     if area is None:
-        return [
-            get_marker(location=_)
-            for _ in locations
-        ]
-    return [
-        get_marker(location=_)
-        for _ in locations
-        if _.area == area
-    ]
+        return [get_marker(location=_) for _ in locations]
+    return [get_marker(location=_) for _ in locations if _.area == area]
 
 
 def get_map(area: str | None = None) -> rx.Component:
