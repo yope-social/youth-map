@@ -17,7 +17,23 @@ class Location(rx.Base):
     zone: int
     area: str
     description: str | None
+    accessibility: str | None
+    risk: str | None
     link: str | None
+
+    def get_icon(self) -> str:
+        """Get the icon for the location (based on the zone)."""
+        if self.zone == 1:
+            return "/marker-boomer.png"
+        if self.zone == 2:
+            return "/marker-support.png"
+        if self.zone == 3:
+            return "/marker-nerd.png"
+        if self.zone == 4:
+            return "/marker-kompromiss.png"
+        if self.zone == 5:
+            return "/marker-freiraum.png"
+        return "/marker-unknown.png"
 
 
 file_path = Path(__file__).parent / "locations.json"
