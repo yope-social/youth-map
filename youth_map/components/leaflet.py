@@ -52,14 +52,7 @@ class MapContainer(LeafletLib):
 
     def _get_custom_code(self) -> str:
         return """import "leaflet/dist/leaflet.css";
-import dynamic from 'next/dynamic'
-const greenIcon =  import('leaflet').then(
-(mod) =>
-    L.icon({
-        iconUrl: 'marker-nerd.png',
-        shadowUrl: 'marker-shadow.png',
-    })
-)
+//import dynamic from 'next/dynamic'
 const MapContainer = dynamic(() => import('react-leaflet').then(
     (mod) => mod.MapContainer), { ssr: false }
 );
@@ -73,7 +66,8 @@ class TileLayer(LeafletLib):
     tag = "TileLayer"
 
     def _get_custom_code(self) -> str:
-        return """const TileLayer = dynamic(() => import('react-leaflet').then(
+        return """
+const TileLayer = dynamic(() => import('react-leaflet').then(
     (mod) => mod.TileLayer), { ssr: false }
 );"""
 
