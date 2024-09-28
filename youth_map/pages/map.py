@@ -1,27 +1,30 @@
 """Test page."""
 
 import reflex as rx
+from loguru import logger
 
 from youth_map.components.leaflet import map_container, tile_layer
 from youth_map.components.marker import marker
-from youth_map.data.locations import Location, locations, location
+from youth_map.data.locations import Location, locations
 
 
 def get_marker(location: Location) -> rx.Component:
     """Get marker for a location"""
     data = location.dict()
     data["icon"] = location.get_icon()
-    return marker(
-        position=[location.lat, location.long],
-        data=data
-    )
+    data["zone"] = location.get_zone()
+    return marker(position=[location.lat, location.long], data=data)
 
 
 def get_markers(area: str | None = None) -> list[rx.Component]:
     """Get the map marker"""
+    markers = []
     if area is None:
-        return [get_marker(location=_) for _ in locations]
-    return [get_marker(location=_) for _ in locations if _.area == area]
+        markers = [get_marker(location=_) for _ in locations]
+    else:
+        markers = [get_marker(location=_) for _ in locations if _.area == area]
+    logger.info(f"Have {len(markers)} markers for area: {area}")
+    return markers
 
 
 def test_page(area: str | None = None) -> rx.Component:

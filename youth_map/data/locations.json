@@ -6,7 +6,7 @@
   "description" : "Geschichtsträchtiges Schloss, welches viele Touris anzieht, 4 Euro/ 3 Euro ermäßigt",
   "opening_hours" : "Dienstags bis Freitags von 10:00 – 17:00 Uhr sowie Samstags, Sonntags und Feiertags von 10:00 – 18:00 Uhr",
   "link" : "https://www.schloss-colditz.de/de/startseite/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/Colditz-Castle-1194607.jpg"
 }, {
   "name" : "Jugendherberge Schloss Colditz",
@@ -15,7 +15,7 @@
   "zone" : 3,
   "description" : "Unterkunft für Klassenfahrten, Urlaube, Tagungen und Proben \n(Probenräume, direkte Kooperation zur \nLandesmusikakademie), Übernachtung für Jugendliche \nminimum 34 Euro pro Person",
   "link" : "https://www.jugendherberge.de/jugendherbergen/colditz-schloss/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprodmigration%2Fweb%2Fbin%2Fcb9f8853-eb6b-3c06-9e3c-afa588cab249.jpg?crop=780%2C520%2C0%2C0&resize=1180"
 }, {
   "name" : "Ruine am Hainberg",
@@ -23,7 +23,7 @@
   "long" : 12.8071,
   "zone" : 5,
   "description" : "Ehemaliges Schloss mit gutem Ausblick auf Colditz",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/266/AB_S008_C.jpg",
   "accessibility" : "nur zu Fuß erreichbar, schlechte Wege",
   "risk" : "Bei Regen und Schnee Wege sehr rutschig, Ruine selbst nur teilweise zugänglich"
@@ -33,7 +33,7 @@
   "long" : 12.81049,
   "zone" : 4,
   "description" : "20 m hoher gemauerter Aussichtsturm auf dem \nTöpelsberg südlich der Stadt Colditz, überdachte \nTische mit Bänken",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/259/AB_S005_G.jpg",
   "accessibility" : "mit dem Auto erreichbar, zu Fuß Zugang über Jugendgarten"
 }, {
@@ -42,7 +42,7 @@
   "long" : 12.80609,
   "zone" : 1,
   "description" : "mit Sitzmöglichkeiten",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.4QFKp1KDg3Mzxl53um5dPAHaDt?rs=1&pid=ImgDetMain",
   "accessibility" : "zentral"
 }, {
@@ -53,7 +53,7 @@
   "description" : "Freibad mit 2 Becken und einem Kinderbecken, Rutsche, Liegefläche und Spielplatz, Eintritt 3,50 Euro/ 2 Euro ermäßigt",
   "opening_hours" : "Mai / Juni / September Mo - Fr 10:00 - 19:00 Uhr Sa - So 10:00 - 20:00 Uhr sowie an Feiertagen und während der Ferien Juli / August Mo - So 10:00 - 20:00 Uhr",
   "link" : "http://www.campingplatz-colditz.de/w_preisliste/Preisliste-Waldbad.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/295/AB_S011_A.jpg",
   "accessibility" : "abgelegen, nicht gut zu Fuß oder mit dem Fahrrad zu erreichen "
 }, {
@@ -62,14 +62,14 @@
   "long" : 12.80007,
   "zone" : 4,
   "description" : "Promenade direkt an der Mulde, es gibt mehrere \nüberdachte Tische mit Bänken (heruntergekommen) \nund einen kleinen Sportplatz für Fuß- und Basketball",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Tiergarten",
   "lat" : 51.13069,
   "long" : 12.82938,
   "zone" : 4,
   "description" : "Weitläufiges Gebiet im Wald, verschiedene  Wanderungen möglich",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/265/AB_S007_A.jpg"
 }, {
   "name" : "Tongrube Colditz",
@@ -77,7 +77,7 @@
   "long" : 12.81255,
   "zone" : 1,
   "description" : "Baggersee in der Nähe von Colditz, Angler*innengebiet",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/R.d40a1a3ea40d8f6417bdeaea1e70eeba?rik=a9SkbW4dLaRLOg&riu=http%3a%2f%2fwww.alleangeln.de%2fimages%2fwater-image-large%2fkKnO5%2f24a07935f625576420c228f6ad84370e.jpeg&ehk=1TIoD%2brYLFpJ1WQ0R%2bU19uM4UbQmV%2fy%2brC0lTDX0wLY%3d&risl=&pid=ImgRaw&r=0"
 }, {
   "name" : "Bahnhof Tanndorf",
@@ -85,7 +85,7 @@
   "long" : 12.84825,
   "zone" : 4,
   "description" : "Aktuell einzige Anbindung für die Gemeinde Colditz  ans Schienennetz, es gibt einen Raum mit Tischtennisplatte und Bastelmatierialien -> Privatgelände, nicht zugänglich, evtl. auf Anfrage",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/342/AB_D20_B.jpg"
 }, {
   "name" : "GoTeam Jugendbeteiligung",
@@ -95,7 +95,7 @@
   "description" : "Jugendgruppe im Alter von 8- 25 Jahren, die Projekte \nverwirklichen und politisch aktiv sind, begleitet durch \nehrenamtliche erwachsene Person, \noffen für neue Menschen, \nauch Facebook und Instagram",
   "opening_hours" : "Jeden Freitag 16:00 Uhr - 18:00 Uhr",
   "link" : "https://www.goteam-colditz.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.D_pT8rpran0zuuzoqRBLowHaHS?rs=1&pid=ImgDetMain"
 }, {
   "name" : "Jugendgarten vom GoTeam",
@@ -103,7 +103,7 @@
   "long" : 12.80687,
   "zone" : 3,
   "description" : "selbstverwalteter Garten für und von Jugendlichen, \nOrt für Rückzug und Workshops",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://jimdo-storage.freetls.fastly.net/image/404739023/07c92851-032c-4186-adb9-a3ccbdbf6028.jpg?format=pjpg&quality=80,90&auto=webp&disable=upscale&width=1024&height=1024&trim=198,0,198,0"
 }, {
   "name" : "Schulsozialarbeit Oberschule Sophienschule",
@@ -112,7 +112,7 @@
   "zone" : 2,
   "description" : "Schulsozialarbeit nur für Schüler*innen der  \nSophienschule, Träger: Bildungs- und Sozialwerk Muldental e.V.",
   "link" : "https://schulen-colditz.de/oberschule/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.colditz.info/media/pages/272/AB_S027_E.jpg"
 }, {
   "name" : "Offene Jugendarbeit Bürgercenter",
@@ -121,7 +121,7 @@
   "zone" : 2,
   "description" : "Programm in den Schulferien, Konzerte, \nDisko etc., \nauch Instagram",
   "link" : "https://www.bc-colditz.de",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/R.57aa802d19a0817565e43db8ad41f233?rik=EX8W35pJVOY8bw&riu=http%3a%2f%2fwww.colditz24.de%2fwp-content%2fuploads%2f2019%2f08%2fC_001AS_X.jpg&ehk=GdO2GkxKlqR9yb9WicXiaGG9BqTswCEGyOTmzq%2fmkzs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
 }, {
   "name" : "selbstverwalteter Jugendclub Hausdorf",
@@ -129,7 +129,7 @@
   "long" : 12.83311,
   "zone" : 3,
   "description" : "im Keller des Gebäudes, welches das \"Ländliche Leben\" \nangemietet hat, Adresse: Hauptstraße 38, neben der \nGrundschule, Zugang von Straße aus, \nmomentan etwa 5 Jugendliche im Alter \nvon etwa 15/16 Jahren, noch nicht offiziell geöffnet",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "selbstverwalteter Jugendclub Leisenau",
   "lat" : 51.16827,
@@ -137,47 +137,47 @@
   "zone" : 3,
   "description" : "neben der Feuerwehr und dem Spielplatz, \ngleichzeitig Dorfclub, Zusammenarbeit mit \nHeimatverein nebenan",
   "opening_hours" : "meist ab 20:00 Uhr",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "selbstverwalteter Jugendclub Schönbach",
   "lat" : 51.15098,
   "long" : 12.75906,
   "zone" : 3,
   "description" : "neben Kegelbahn, untere Dorfstr. 11, momentan \netwa 16 Jugendliche im Alter von 11 - 16 Jahren, \nnoch nicht offiziel geöffnet ",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "selbstverwalteter Jugendclub Hohburg",
   "lat" : 51.40845,
   "long" : 12.80144,
   "zone" : 3,
   "description" : "ist ein Jugendclub (ohne Sozialarbeiter). Dieser befindet \nsich in einem Raum am Waldsportplatz in einem \nHohburger Vereinsdomizil.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "selbstverwalteter Jugendclub Zschorna",
   "lat" : 51.39182,
   "long" : 12.80829,
   "zone" : 3,
   "description" : "ist ein Jugendclub (ohne Sozialarbeiter). Dieser befindet \nsich in einem Raum im Vereinshaus Zschorna.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "selbstverwalteter Jugendclub Meltewitz",
   "lat" : 51.36409,
   "long" : 12.91221,
   "zone" : 3,
   "description" : "ist ein Jugendclub (ohne Sozialarbeiter). Dieser befindet \nsich in 2 Räumen im Freizeithaus Meltewitz.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "selbstverwalteter Jugendclub Lüptitz",
   "zone" : 3,
   "description" : "Über den selbstverwalteten Jugendclub in Lüptitz sind \nleider keine öffentlichen Daten über den Standort, die\nAngebote, usw. bekannt. Wahrscheinlich kommst du nur\nüber die \"richtigen Kontakte\" zum genauen Standort.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Schulsozialarbeit an Oberschule Falkenhain",
   "lat" : 51.3997,
   "long" : 12.87089,
   "zone" : 2,
   "description" : "Die Schulsozialarbeit richtet sich nur an Schüler*innen \nder Oberschule Falkenhain. Wenn ihr \nUnterstützung im Schulalltag oder mit \nFreunden, Familie o.ä. braucht, könnt ihr \neuch hier an die Schulsozialarbeiter*in wenden.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Jugendberatungstelle DRK Wurzen",
   "lat" : 51.36508,
@@ -185,85 +185,85 @@
   "zone" : 2,
   "description" : "In Lossatal gibt es keine eigene Jugendberatungsstelle. \nDoch die nächste Jugendberatungsstelle befindet sich in der\nBahnhofstraße 26 in Wurzen.\n\nAuch Jugendliche aus Lossatal und anderen Gemeinden\ndürfen die Angebote vor Ort nutzen.\n\nSie bieten professionelle Hilfe bei Fragen und Problemen:\n- in Schule, Ausbildung oder Beruf\n- mit der Familie\n- mit Freunden\n- mit Ämtern und Behörden\n- mit Wohnen und Finanzen\n- im Umgang mit Alkohol und Drogen\n- bei Ängsten\n- bei Gewalterfahrungen als Täter oder Opfer \n- ...",
   "opening_hours" : "Di: 10:00 – 17:00 Uhr",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz Thammenhain",
   "lat" : 51.42907,
   "long" : 12.85028,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz \"Spur der Steine\" Hohburg\n",
   "lat" : 51.41394,
   "long" : 12.80476,
   "zone" : 4,
   "description" : "Der Spielplatz ist mit einer guten Tischtennisplatte und \nSitzgelegenheiten ausgestattet.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz Falkenhain",
   "lat" : 51.39403,
   "long" : 12.87374,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz \"An der Gemeindeverwaltung\"\n Falkenhain",
   "lat" : 51.39849,
   "long" : 12.87316,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz Dornreichenbach",
   "lat" : 51.37086,
   "long" : 12.86519,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz im Waldbad Mark Schönstädt",
   "lat" : 51.35504,
   "long" : 12.8757,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz \"Körlitzer Straße\" Künitzsch",
   "lat" : 51.37519,
   "long" : 12.83072,
   "zone" : 4,
   "description" : "Spielplatz",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Bewegungsparcour/ \nFreizeit- und Sportanlage in Hohburg",
   "lat" : 51.41378,
   "long" : 12.80396,
   "zone" : 4,
   "description" : "Vor Ort findest du einen Bewegungsparcour, eine \nTischtennisplatte, ein Basketballplatz und einen \nFußballplatz. Die Freizeitanlage liegt sehr zentral und ist\nvon allen Seiten gut einsehbar. Gleich daneben befinden \nsich außerdem eine Kita und auch einSpielplatz für \njüngere (Klein-)kinder.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Kaolinsee Hohburg",
   "lat" : 51.4085,
   "long" : 12.78619,
   "zone" : 4,
   "description" : "Der See ist aus einem ehemaliger Tagebau enstanden. Dort \ngibt es die Möglichkeit zu baden oder sich auf den Liegewiesen \nzu treffen und zu erholen. Außerdem gibt es um den See \nherum Wanderwege, sowie den \"Kleinen Berg\". Auf der \nnördlichen Seite des See´s gibt es auch eine überdachte \nHolzhütte, die zum Verweilen einlädt. Darüberhinaus gibt es \nauch ein sauberes öffentliches WC (kostenlos). \n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Hoburger Schweiz/ Hohburger Berge",
   "zone" : 4,
   "description" : "ist ein Wander-, Kletter- und Erholungsgebiet. Es ist ein\nnationales Geotop, welches durch Wind und \nGletscherschliffe geprägt ist.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Löbenberg (mit Skiwiese und Rodelbahn)",
   "zone" : 4,
   "description" : "Der Löbenberg ist die höchste Erhebung der Hohburger \nSchweiz und liegt etwa 2 km nordwestlich von Hohburg\nund dem Berbaupfad. Dort befinden sich sowohl eine \nSkiwiese, als auch eine Rodelbahn.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Dahlener Heide Falkenhain",
   "zone" : 4,
   "description" : "Beginn der Dahlener Heide, Wander-/Kletter-/\nErholungsgebiet",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://de.wikipedia.org/wiki/Dahlener_Heide#/media/Datei:Dahlener_Heide.jpg"
 }, {
   "name" : "Steinbruch Löbenberg",
@@ -271,7 +271,7 @@
   "long" : 12.78602,
   "zone" : 4,
   "description" : "Das Gebiet um den Steinbruch eignet sich zum Wandern, \nKlettern, Radfahren, Schwimmen und Erholen.",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.komoot.com/de-de/highlight/2739454"
 }, {
   "name" : "Wandergebiet Spitzberg Lüpitz",
@@ -279,7 +279,7 @@
   "long" : 12.76051,
   "zone" : 4,
   "description" : "Das Gebiet um den Spitzberg eignet sich zum Wandern, \nRadfahren und Erholen.\n",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://geopark-porphyrland.de/geotop/spitzberg-2/"
 }, {
   "name" : "Waldbad Mark Schönstadt",
@@ -288,7 +288,7 @@
   "zone" : 4,
   "description" : "Das Waldbad ist eine kostenlose Bademöglichkeit, wo \ngelegentlich auch ein Sommerkino (freier Eintritt) mit Popcorn \nund Getränken stattfindet.\n",
   "opening_hours" : "Öffnungszeiten:\n24 Stunden geöffnet",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Freibad Burkhardtshain",
   "lat" : 51.33305,
@@ -296,14 +296,14 @@
   "zone" : 4,
   "description" : "Das Freibad ist eine Bademöglichkeit für jung und alt mit \nfolgenden Eintrittspreisen:\nKinder/Jugendliche bis 18J. Einzelkarte: 2,50€ \n10er Karte: 20,00€, \nVormittagskarte: 2,00€\nAbendkarte: 2,00€\nSaisonkarte: 55,00€\nSchwimmkurse/-abzeichen: nach Absprache",
   "opening_hours" : "Öffnungszeiten:\ntäglich von 10:00 - 20:00 Uhr\n(Mai-Sept.)",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Sportheim und Freilichtbühne \nDornreichenbach",
   "lat" : 51.36687,
   "long" : 12.86906,
   "zone" : 3,
   "description" : "Sportheim und Freilichtbühne \n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Fahrbibliothek\n",
   "lat" : 51.4122,
@@ -311,7 +311,7 @@
   "zone" : 3,
   "description" : "Die Gemeindebibliothek in Hohburg wurde leider \nim Juli 2021 geschlossen, dafür werden mehrere \nHaltestellen in Lossatal mit der Fahrbibliothek \nangefahren: Hohburg, (Grundschule),\nFalkenhain (Parkplatz am Rathaus),\nLüptitz (Feuerwehrplatz)\n \nEs werden über 60.000 Bücher und andere Medien \naus der gesamten Mediathek Borna angeboten.\n(Stand 2021)",
   "opening_hours" : "täglich im 14-tägigen Rhythmus\n\nHohburg: \nGelände Grundschule \n13:30 Uhr – 14:30 Uhr\n \nFalkenhain: \nParkplatz am Rathaus \n14:45 Uhr – 15:30 Uhr \n\nLüptitz:\nFeuerwehrplatz \n15:45 Uhr – 16:30 Uhr",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Tiergehege Dornreichenbach e.V.",
   "lat" : 51.36939,
@@ -320,13 +320,13 @@
   "description" : "Das bekannte Tiergehege befindet sich in Dornreichenbach\nund kostet 1€ pro Person.",
   "opening_hours" : "April - Okt.: 08:00 Uhr - 18:00 Uhr\nNov. - März: 08:00 Uhr - 17:00 Uhr",
   "link" : "http://www.tiergehege-dornreichenbach.de/",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Künitzscher Karnevalsclub e.V.",
   "zone" : 3,
   "description" : "Karnevalsclub",
   "link" : "https://www.facebook.com/Kuehnitzsch/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://kuehnitzsch.de/index.php?id=111"
 }, {
   "name" : "Jugendfeuerwehr Hohburg",
@@ -334,7 +334,7 @@
   "long" : 12.80345,
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Jugendfeuerwehr Großzschepa",
   "lat" : 51.41277,
@@ -342,28 +342,28 @@
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
   "link" : "https://www.feuerwehr-lossatal.de/feuerwehr-grosszschepa/jugendfeuerwehr-grosszschepa/",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Jugendfeuerwehr Thammenhain",
   "lat" : 51.4276,
   "long" : 12.85976,
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Jugendfeuerwehr Falkenhain",
   "lat" : 51.39866,
   "long" : 12.8754,
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Jugendfeuerwehr Körlitz",
   "lat" : 51.36894,
   "long" : 12.80262,
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.feuerwehr-lossatal.de/feuerwehr-koerlitz/"
 }, {
   "name" : "Jugendfeuerwehr Meltewitz",
@@ -371,7 +371,7 @@
   "long" : 12.90995,
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Hohburger Sportverein1990 e.V.",
   "lat" : 51.40831,
@@ -379,7 +379,7 @@
   "zone" : 3,
   "description" : "Dieser Sportverein hat ein vielfältiges Sportangebot, von\nKegeln und Radball über Nordic Walking und Fußball\nbis zu Wintersport und Leichtathletik. Dabei richtet sich \nder Verein nach den Bedürfnissen und Interessen \naller Altersgruppen.\nDer Verein befindet sich in der Jahnstraße 18 in Lossatal.\n\n ",
   "link" : "https://hohburger-sportverein.de/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://hohburger-sportverein.de/"
 }, {
   "name" : "SG Meltewitz e.V.\n",
@@ -388,13 +388,13 @@
   "zone" : 3,
   "description" : "Dieser Sportverein bietet Pferdesport, Tischtennis und \nGymnastik an.\n \n\n \n",
   "link" : "https://www.sportswanted.de/club/sg-meltewitz-e-v-27035/",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Modellflugverein Hohburg e.V.",
   "zone" : 3,
   "description" : "Die Mitglieder des Vereins treffen sich regelmäßig \nzum gemeinsamen Fliegen, Basteln und Fachsimpeln. \nAuch für Anfänger ist eine Lehrer-Schüler-Anlage \nvorhanden.\n \n\n ",
   "link" : "https://www.mfv-hohburg.de/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.mfv-hohburg.de/"
 }, {
   "name" : "SHC Meltewitz Offroad Team e.V.",
@@ -402,19 +402,19 @@
   "long" : 12.89379,
   "zone" : 3,
   "description" : "Die Vereinsmitglieder und Besucher teilen alle die \nBegeisterung für den Motorradsport. Die große\nOffroad-Anlage befindet sich in der Kührener Str. 6 in \nLossatal.\n \n",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.shc-meltewitz.de/junioren"
 }, {
   "name" : "Sportfischerei Hohburg e.V.\n",
   "zone" : 3,
   "description" : "Der Verein pflegt das Sportfischen in den Gewässern \nrund um Hohburg. Dabei hat die professionelle\nAusbildung einen hohen Stellenwert, aber auch\ndie Gemeinschaft unter Gleichgesinnten kommt\nnicht zu kurz.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Angelverein Lossataler Stichlinge e. V.",
   "zone" : 3,
   "description" : "Der Verein hat 56 Miglieder und davon sind 8 Kinder \nund Jugendliche.\n \nDurch den AV Leipzig e.V. wurden dem Verein der \nSchlossteich in der Ortslage Thammenhain der \nGemeinde Lossatal (Gewässer-Nr. L 08-134) und der \nWiesenteich in der Ortslage Thammenhain \n(Gewässer-Nr. L 08-134) zur Pflege übergeben.\n \n",
   "link" : "https://lossataler-stichlinge.lvsa-online.de/index/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://lossataler-stichlinge.lvsa-online.de/index/"
 }, {
   "name" : "Sportverein \"Non Stop\" e.V.",
@@ -422,19 +422,19 @@
   "long" : 12.80115,
   "zone" : 3,
   "description" : "Der Verein bietet Tischtennis, Gymnastik und \nSportangebote für Frauen an. Dieser befindet sich in\nAm Wiesengrund 3 in Lossatal.\n \n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "TSV \"Blau-Gelb\" Großzschepa e.V.",
   "lat" : 51.41263,
   "long" : 12.75789,
   "zone" : 3,
   "description" : "ist ein Kegel- und Fußballverein. Dieser befindet sich\nin der Zschepaer Hauptstr. 3 in Lossatal.\n \n \n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Dornreichenbacher Bruchangler e.V.",
   "zone" : 3,
   "description" : "In diesem Verein kann jeder Angelfreund viel \nvon erfahrenen Mitgliedern lernen. Vereinsträger \nsind das Waldbad Mark Schönstädt sowie die \nFalkenhainer Steinbrüche.\n\nJahresbeitrag Vollzahler 85,00 €\nJahresbeitrag Jugendliche 30,00 €\n \n\n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Falkenhainer Sportverein 1898 e.V.",
   "lat" : 51.403,
@@ -442,7 +442,7 @@
   "zone" : 3,
   "description" : "Der Verein fördert speziell den Kinder- und Jugendsport.\nBereiche sind Geräteturnen, Fußball, Schach, Dart, \nLinedance, Badminton, Geräteturnen, Tischtennis, \nVolleyball, Kegeln und Gymnastik.\nDieser befindet sich Am Sportplatz 26 in Lossatal.\n ",
   "link" : "https://www.falkenhainer-sv.de/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.falkenhainer-sv.de/"
 }, {
   "name" : "Sportzentrum im Lossatal",
@@ -450,14 +450,14 @@
   "long" : 12.87397,
   "zone" : 3,
   "description" : "Vor Ort gibt es verschiedene Sport- und Freizeitangebote \nin einer Halle. Das Sportzentrum befindet sich \nAm Sportplatz 22 in Falkenhain.\n ",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Sporthalle Lüptitz",
   "lat" : 51.39339,
   "long" : 12.77383,
   "zone" : 3,
   "description" : "Vor Ort gibt es verschiedene Sport- und \nFreizeitangebote in einer Halle.\n",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "http://navigator.wurzen.de/poi-900000044-22920.html"
 }, {
   "name" : "Stadion Am Wolfsberg Lüptitz",
@@ -465,28 +465,28 @@
   "long" : 12.77105,
   "zone" : 3,
   "description" : "Das Sportstadion gehört zum JFV (Jugendförderverein) \nMulde-Lossa-Tal e.V. ",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Waldsportplatz Hohburg",
   "lat" : 51.40776,
   "long" : 12.8021,
   "zone" : 3,
   "description" : "Der Sportplatz befindet sich in der Jahnstraße 18 in \nHohburg.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Gerhard-Seliger Sporthalle Hohburg",
   "lat" : 51.41222,
   "long" : 12.80455,
   "zone" : 3,
   "description" : "Die Sporthalle befindet sich in der Schulstraße 1 in \nHohburg.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Reiterverein \"Hohburger Schweiz\"",
   "lat" : 51.41136,
   "long" : 12.81192,
   "zone" : 3,
   "description" : "Dieser Verein nutzt die Gebiete der Hohburger \nSchweiz für Ausritte und zur Ausbildung von Mensch und \nPferd. Er befindet sich in der Thomas-Müntzer-Straße 16A \nin Lossatal.\n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Kegelbahn Falkenhain",
   "lat" : 51.40208,
@@ -495,41 +495,41 @@
   "description" : "Die Kegelbahn ist offen für jung und alt und befindet sich \nAm Sportplatz 22 in Falkenhain.\n \n\n\n ",
   "opening_hours" : "Training Frauengruppe: Montags ab 18:30 Uhr \nTraining Herrenmannschaft: Dienstags ab 19:00 Uhr \ngemischte Freizeitkegler: Donnerstags ab 19:00 Uhr",
   "link" : "https://www.falkenhainer-sv.de/kegeln/",
-  "region" : "lossatal",
+  "area" : "lossatal",
   "picture" : "https://www.falkenhainer-sv.de/kegeln/"
 }, {
   "name" : "Haltestelle Thammenhain",
   "zone" : 4,
   "description" : "Haltestelle von mehreren Buslinien (672,675,664) \nmit Sitzgelegenheiten, guter Treffpunkt für Jugendliche, \ndie in verschiedenen Regionen in Lossatal leben.\n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Tankstelle in Falkenhain",
   "lat" : 51.3928,
   "long" : 12.87586,
   "zone" : 4,
   "description" : "Auf dem Gelände der Tankstelle in Falkenhain gibt es \n2 Holzhütten mit mehreren Sitzgelegenheiten. \nDie Mitarbeiter*innen der Tankstelle sind offen für \nJugendliche.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Bahnhof Mockrehna",
   "lat" : 51.50572,
   "long" : 12.81938,
   "zone" : 4,
   "description" : "Der Bahnhof Mockrehna ist wenig befahren und \ndeswegen ein guter Treffpunkt für Jugendliche, \nda wenig bis keine Erwachsenen hier sind.\n",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Wiese und Sitzbänke in der Nähe des \nNah&Frisch in Falkenhain",
   "lat" : 51.3983,
   "long" : 12.87295,
   "zone" : 4,
   "description" : "Auf der Wiese in der Nähe des \"Nah&Frisch\" in \nFalkenhain gibt es eine gute Treffpunktmöglichkeit \nmit Sitzgelegenheiten.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Parkplatz und kleiner Park an der Lossa \n (hinter Nah&Frisch) Hohburg",
   "lat" : 51.41172,
   "long" : 12.79966,
   "zone" : 4,
   "description" : "Dieser Treffpunkt ist ein sehr zentraler Platz in Hohburg. \nDort gibt es mehrere Sitzgelegenheiten am Fluss Lossa und \nam Parkplatz.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Junge Gemeinde Falkenhain",
   "lat" : 51.39833,
@@ -537,19 +537,19 @@
   "zone" : 3,
   "description" : "Die Junge Gemeinde ist ein christlicher Gemeindetreffpunkt \nfür Jugendliche. Dort kommen sie regelmäßig im Pfarrhaus \nin Falkenhain in der Karl-Marx-Str. 15 zusammen.",
   "opening_hours" : "Do: 19 Uhr ",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Polizei",
   "zone" : 1,
   "description" : "In Lossatal gibt es kein Polizeirevier mehr vor Ort.",
-  "region" : "lossatal"
+  "area" : "lossatal"
 }, {
   "name" : "Spielplatz Colditz, Färberbergsiedlung",
   "lat" : 51.13746,
   "long" : 12.7961,
   "zone" : 4,
   "description" : "Geräte: Wippe, Schaukel, Klettergerät, Rutsche, Balancegerät",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__faerberberg.jpg"
 }, {
   "name" : "Spielplatz Colditz, Gartensparte \"Bergland\"",
@@ -557,7 +557,7 @@
   "long" : 12.79841,
   "zone" : 4,
   "description" : "Geräte: Wippe, Kletter- & Spielturm, Sandkasten, Federgerät, Rutsche",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__gartensparte_bergland__rochlitzer_strasse.jpg"
 }, {
   "name" : "Spielplatz Colditz, Holzwickeder Str.",
@@ -565,7 +565,7 @@
   "long" : 12.79282,
   "zone" : 4,
   "description" : "Geräte: Wippe, Kletter- & Spielturm,\nWippe, Sprungkasten, Federgerät, \nSandkasten, Schaukel, Spielhaus, Seilklettergerät, Rutsche",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/holwickeder_str.jpg"
 }, {
   "name" : "Spielplatz Colditz, Campingplatz Waldbad",
@@ -573,7 +573,7 @@
   "long" : 12.83227,
   "zone" : 4,
   "description" : "wahrscheinlich nur zugänglich für Camper*innen, Geräte: Rutsche, Schaukel, Sandkasten, Federgerät",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__im_tiergarten__campingplatz.jpg"
 }, {
   "name" : "Spielplatz Colditz, Waldbad",
@@ -581,7 +581,7 @@
   "long" : 12.82959,
   "zone" : 4,
   "description" : "wahrscheinlich nur zugänglich für Waldbadbesucher*innen, Geräte: Nestschaukel, Schaukel, Tischtennis, Wippe, Drehgerät, Kletter- & Spielturm, Rutsche ",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__im_tiergarten__waldbad_1_.jpg"
 }, {
   "name" : "Spielplatz Colditz, Lindenstr.",
@@ -589,13 +589,13 @@
   "long" : 12.80957,
   "zone" : 4,
   "description" : "Geräte: Wippe, Klettergeräte, Sandkasten, Federgerät",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__lindenstrasse.jpg"
 }, {
   "name" : "Spielplatz Colditz, Wettiner Ring (unterer Teil)",
   "zone" : 4,
   "description" : "scheint durch Hochhaus relativ kontrolliert, Geräte: Wippe, Kletter- & Spielturm, Federgerät",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__wettiner_ring__alt_.jpg"
 }, {
   "name" : "Spielplatz Colditz, Wettinger Ring (oberer Teil)",
@@ -603,7 +603,7 @@
   "long" : 12.81606,
   "zone" : 4,
   "description" : "scheint durch Hochhaus relativ kontrolliert, Geräte: Schaukel, Federgerät, Kletter- & Spieltürme, Rutsche",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__wettiner_ring__neu_.jpg"
 }, {
   "name" : "Spielplatz Collmen, Am Bornberg",
@@ -611,7 +611,7 @@
   "long" : 12.81751,
   "zone" : 4,
   "description" : "Geräte: Wippe, Kletter- & Spielturm, Rutsche, Tischtennis, Sitzgelegenheit vorhanden ",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_collmen__am_bornberg.jpg"
 }, {
   "name" : "Spielplatz Commichau, Teichdamm",
@@ -619,13 +619,13 @@
   "long" : 12.83626,
   "zone" : 4,
   "description" : "Geräte: Klettergerät, Tischtennis, Fussballfeld, Wippe",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_commichau_2.jpg"
 }, {
   "name" : "Spielplatz Commichau, Teichdamm Vereinshaus",
   "zone" : 4,
   "description" : "evtl. nur zugänglich für Vereinsmitglieder, Geräte: Kletter- & Spielturm, Federgerät, Wippe, Sitzgelegenheit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_commichau1.jpg"
 }, {
   "name" : "Spielplatz Erlbach, Gemeindezentrum ",
@@ -633,7 +633,7 @@
   "long" : 12.87967,
   "zone" : 4,
   "description" : "direkt neben Gemeindehaus, daher von dortaus sehr gut einsichtig, Geräte: Kletter- & Spielturm, Rutsche, Klettergerät",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_erlbach__talstrasse.jpg"
 }, {
   "name" : "Spielplatz Erlln, Dorfplatz",
@@ -641,7 +641,7 @@
   "long" : 12.81033,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Rutsche, Klettergerät, überdachte Sitzmöglichkeit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_erlln.jpg"
 }, {
   "name" : "Spielplatz Hohnbach, Geithainer Str.",
@@ -649,7 +649,7 @@
   "long" : 12.78695,
   "zone" : 4,
   "description" : "Geräte: Klettergerät, Wippe, Sandkasten, Rutsche",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_hohnbach__geithainer_strasse.jpg"
 }, {
   "name" : "Spielplatz Hohnbach, Siedlung",
@@ -657,7 +657,7 @@
   "long" : 12.788,
   "zone" : 4,
   "description" : "Geräte: Klettergerät, Wippe, Sandkasten, Rutsche, Federgerät, Sitzmöglichkeit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_hohnbach__siedlung.jpg"
 }, {
   "name" : "Spielplatz Lastau, Vereinshaus, Dorfstr.",
@@ -665,7 +665,7 @@
   "long" : 12.82372,
   "zone" : 4,
   "description" : "evtl. nur für Vereinsmitglieder zugänglich, Geräte: Schaukel, Klettergerät, Wippe, Kletter- & Spieltürme, Rutschen, Sandkasten, Volleyballfeld, Fussballfeld, Basketballkorb, Tischtennis, Sitzmöglichkeiten vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_lastau__dorfstrasse.jpg"
 }, {
   "name" : "Spielplatz Leisenau, Leisenauer Dorfstr. 6",
@@ -673,7 +673,7 @@
   "long" : 12.76304,
   "zone" : 4,
   "description" : "Geräte: Wippe, Spieltürme, Rutsche, Kletterelemente, Tischtennis, Schaukel",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/spielplatz_leisenau_-kluge__copy_.png"
 }, {
   "name" : "Spielplatz Maaschwitz, Bushaltestelle",
@@ -681,7 +681,7 @@
   "long" : 12.83304,
   "zone" : 4,
   "description" : "Geräte: Wippe, Spielhaus, Kletter- & Spielturm, Rutsche, Federgerät, Beachvolleyballfeld, Sitzgelengenheit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_maaschwitz.jpg"
 }, {
   "name" : "Spielplatz Schönbach, Colditzer Str.",
@@ -689,7 +689,7 @@
   "long" : 12.76457,
   "zone" : 4,
   "description" : "Geräte: Beachvolleyballfeld, Fussballfeld, Basketballfeld",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_schoenbach__colditzer_strasse_2.jpg"
 }, {
   "name" : "Spielplatz Schönbach, Kirchweg",
@@ -697,7 +697,7 @@
   "long" : 12.76445,
   "zone" : 4,
   "description" : "Geräte: Klettergerät, Wippe, Rutsche, Federgerät, Schaukel, Reihenschaukel, Sitzmöglichkeit vohanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_schoenbach__kirchweg.jpg"
 }, {
   "name" : "Spielplatz Sermuth, Sermuther Dorfstr.",
@@ -705,7 +705,7 @@
   "long" : 12.78927,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Spielhaus, Wippe, Halfpipe, Skaterampen!! ",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_sermuth__sermuther_dorfstrasse.jpg"
 }, {
   "name" : "Spielplatz Zollwitz, Hauptstr.",
@@ -713,7 +713,7 @@
   "long" : 12.82586,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Schaukel, Drehgerät, Wippe, Federgerät, Sandkasten, Rutsche, Basketballkorb, Seilbahn, Sitzgelegenheit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_zollwitz__hauptstrasse.jpg"
 }, {
   "name" : "Spielplatz Colditz, Thumirnicht",
@@ -721,7 +721,7 @@
   "long" : 12.79292,
   "zone" : 4,
   "description" : "Geräte: Wippe, Sandkasten, Kletter- & Spielturm, Rutsche",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/colditz__thumirnicht__schoenbacher_weg.jpg"
 }, {
   "name" : "Spielplatz Koltzschen, Bergstraße",
@@ -729,7 +729,7 @@
   "long" : 12.8476,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Rutsche, Wippe",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_koltzschen__bergstrasse.jpg"
 }, {
   "name" : "Spielplatz Zschadrass, Park",
@@ -737,7 +737,7 @@
   "long" : 12.81948,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Schaukel, Drehgerät, Wippe, Federgerät, Sandkasten, Rutsche, Seilbahn, Sitzgelenheit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_zschadrass.jpg"
 }, {
   "name" : "Spielplatz Zschirla, Rittergut",
@@ -745,7 +745,7 @@
   "long" : 12.84418,
   "zone" : 4,
   "description" : "Geräte: Kletter- & Spielturm, Schaukel, Klettergerät, Wippe, Rutsche, Sitzgelegenheit vorhanden",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://fotos.verwaltungsportal.de/seitengenerator/gross/ot_zschirla__waldstrasse.jpg"
 }, {
   "name" : "Jugendfeuerwehr Tanndorf",
@@ -754,7 +754,7 @@
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung, bestehend aus 5 Kindern und Jugendlichen",
   "link" : "http://www.ffw-colditz.de/ofw_colditz_jugendfw/Jugendfeuerwehr-Colditz.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/R.5e947355cc741c7e006424fc6423d6b7?rik=6kBMx8v9Eeuhfg&riu=http%3a%2f%2fwww.ffw-colditz.de%2fmedia%2fpages%2f275%2fIMG_3137.jpg&ehk=iaDLlGiOPMHoZ4Xtzj9%2bA1BOwIt1G2RWVe2ZUF4Betw%3d&risl=&pid=ImgRaw&r=0"
 }, {
   "name" : "Jugendfeuerwehr Colditz",
@@ -763,7 +763,7 @@
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung, bestehend aus 22 Kindern und Jugendlichen ab 8 Jahren, treffen sich regelmäßig Montags ab 16:00 Uhr",
   "link" : "http://www.ffw-colditz.de/ofw_colditz_jugendfw/Jugendfeuerwehr-Colditz.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.jyQS91ffkEGVETg6mps3wwHaFj?rs=1&pid=ImgDetMain"
 }, {
   "name" : "Jugendfeuerwehr Hausdorf",
@@ -772,7 +772,7 @@
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung, für Menschen zwischen 8 und 16 Jahren",
   "link" : "http://www.ffw-colditz.de/ofw_colditz_jugendfw/Jugendfeuerwehr-Colditz.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/R.03fe79f19dd91cce73128245b5077147?rik=m3zCyAIIG9%2bEtg&riu=http%3a%2f%2fwww.ffw-colditz.de%2fmedia%2fpages%2f299%2fth_IMG_3149.jpg&ehk=kXF7xv0Aqi7njW2S4nHhEg5xLI3Qj%2bG2dtIs%2fsjWRRs%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
 }, {
   "name" : "Jugendfeuerwehr Schönbach",
@@ -781,7 +781,7 @@
   "zone" : 3,
   "description" : "Freiwillige Feuerwehr mit Jugendabteilung, bestehend aus 14 Kindern und Jugendlichen",
   "link" : "http://www.ffw-colditz.de/ofw_colditz_jugendfw/Jugendfeuerwehr-Colditz.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "http://www.ffw-colditz.de/media/pages/293/th_IMG_3131.jpg"
 }, {
   "name" : "Colditzer Kanu- und Sportverein e.V.",
@@ -790,7 +790,7 @@
   "zone" : 3,
   "description" : "Sportverein mit Jugendabteilung, vor allem Wassersport, auch Kanuverleih möglich, auch Instagarm",
   "link" : "https://colditzer-kanuverein.de/index.php",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.ksb-ll.de/trainingslandkarte/inhalte/uploads/Colditzer-Kanu-und-Sportverein.jpg"
 }, {
   "name" : "HFC Colditz e.V.",
@@ -799,7 +799,7 @@
   "zone" : 3,
   "description" : "Fußballverein mit Jugendabteilung, Kostenjahresmitgliedschaft Kinder und Jugendliche: 90 Euro, auch Instagram und Facebookseite",
   "link" : "https://www.hfc-colditz.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.3ECBqPMV0wK9UM8Hu_kp6wAAAA?rs=1&pid=ImgDetMain"
 }, {
   "name" : "Colditzer Tennisclub e.V.",
@@ -808,7 +808,7 @@
   "zone" : 3,
   "description" : "Tennisverein mit Jugendabteilung, auch Instagram und Facebookseite ",
   "link" : "https://colditzer-tc.de/Home/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://colditzer-tc.com/.cm4all/uproc.php/0/.IMG_0984.JPG/picture-2600?_=181958567c8"
 }, {
   "name" : "Colditzer Turnverein e.V.",
@@ -817,7 +817,7 @@
   "zone" : 3,
   "description" : "Turnverein mit Jugendabteilung, auch Instagram ",
   "link" : "https://colditzer-turnverein.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.ksb-ll.de/trainingslandkarte/inhalte/uploads/Colditzer-Turnverein.jpg"
 }, {
   "name" : "DJK Colditz e.V.",
@@ -826,7 +826,7 @@
   "zone" : 3,
   "description" : "Volleyballverein mit Jugendabteilung, auch Instagram",
   "link" : "https://volleyballverein-djk-colditz.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.WAuQ_CLiR0DM1un_as3GSQHaGu?rs=1&pid=ImgDetMain"
 }, {
   "name" : "Hausdorfer Sportverein e.V.",
@@ -835,7 +835,7 @@
   "zone" : 3,
   "description" : "Sportverein mit Jugendabteilung, Aerobic, Breitensport, Kraftsport, Tischtennis, Volleyball",
   "link" : "http://www.hausdorfer-sv.de/index.html",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.mRzHaii0w_4NBztCCngbagAAAA?rs=1&pid=ImgDetMain"
 }, {
   "name" : "icamani e.V. Pferdesportverein",
@@ -844,7 +844,7 @@
   "zone" : 3,
   "description" : "Reitverein mit Jugendabteilung, für Preise siehe Website",
   "link" : "https://frz-muldental.jimdofree.com/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://image.jimcdn.com/app/cms/image/transf/dimension=640x10000:format=jpg/path/s6a91ee6887d75e9e/image/i13e29dcf789d8cb9/version/1552469735/image.jpg"
 }, {
   "name" : "Judoverein FSC e.V.",
@@ -852,7 +852,7 @@
   "long" : 12.811918,
   "zone" : 3,
   "description" : "Sportverein mit Jugendabteilung, keine Informationen im Internet zu finden",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Rock n Roll Club \"CADDY\" e.V.",
   "lat" : 51.15701,
@@ -860,7 +860,7 @@
   "zone" : 3,
   "description" : "Tanzverein mit Jugendabteilung",
   "link" : "https://rrc-caddy.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.eMP-FA10QkDofVYi-x_NMgAAAA?rs=1&pid=ImgDetMain"
 }, {
   "name" : "SV Eintracht Sermuth e.V. ",
@@ -869,7 +869,7 @@
   "zone" : 3,
   "description" : "Sportverein mit Jugendabteilungen, Fußball, Kegeln, Boogie Woogie, Straßenlauf, Aerobic, auch Instagram",
   "link" : "https://www.sv-sermuth.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.sv-sermuth.de/assets/img_clubs/200/0.png"
 }, {
   "name" : "TTC 1956 Colditz e.V. ",
@@ -878,80 +878,80 @@
   "zone" : 3,
   "description" : "Tischtennisverein mit Jugendabteilung",
   "link" : "https://www.ttc-colditz.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.As831vSBGkYpUV_IOLH-rQHaEK?rs=1&pid=ImgDetMain"
 }, {
   "name" : "Heimatverein Commichau e.V.",
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Heimatverein Lastau und Umgebung e.V.",
   "lat" : 51.1006,
   "long" : 12.82415,
   "zone" : 3,
   "description" : "Mehrgenerationenhaus, haben Theatergruppe, ",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.lastau.de/images/banners/headerimg.jpg"
 }, {
   "name" : "Heimatverein Schönbach e.V.",
   "lat" : 51.14928,
   "long" : 12.75519,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Heimatverein Land und Leute Hohnbach e.V.",
   "lat" : 51.11595,
   "long" : 12.78568,
   "zone" : 3,
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "http://landundleute-hohnbach.de/images/head.jpg"
 }, {
   "name" : "Heimatverein Leisenauer Dorfleben e.V.",
   "lat" : 51.16777,
   "long" : 12.76598,
   "zone" : 3,
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://image.jimcdn.com/app/cms/image/transf/none/path/s249922317556cbb1/image/i99b33aa9e70f7483/version/1465234996/image.gif"
 }, {
   "name" : "Colditzer Initiative für Natur, Umwelt und Nachhaltigkeit CINUNA e.V.",
   "lat" : 51.12475,
   "long" : 12.8115,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Landschaftspflege & Kulturförderverein Waldhaus Colditz e.V.",
   "lat" : 51.13109,
   "long" : 12.78388,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Verein für Städtepartnerschaften und Internationale Begegnungen e.V. ",
   "lat" : 51.125267,
   "long" : 12.808235,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Evangelischer Kirchenchor",
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Katholischer Kirchenchor „Sankt Raphael“",
   "lat" : 51.12643,
   "long" : 12.80636,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Musikverein Channel 4 Rock e.V.",
   "zone" : 3,
   "link" : "https://infochannel4rock.wixsite.com/channel4",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Liedertafel Colditz e.V.",
   "lat" : 51.12692,
   "long" : 12.81323,
   "zone" : 3,
   "description" : "Männerchor\nProben: Mittwochs 19.00 Uhr",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Pfadfinder Colditz",
   "lat" : 51.1294,
@@ -959,7 +959,7 @@
   "zone" : 3,
   "description" : "Neben den wöchentlichen Gruppenstunden (jeden Donnerstag von 17-18.30 Uhr am Kirchberg 4 in Colditz) veranstalten sie Aktionen und Lager, suchen auch Menschen ab 16 J. für das Team",
   "link" : "https://pfadfinden-colditz.de/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://pfadfinden-colditz.de/wp-content/themes/buena-ukL1I5/img/bundeszeichen@2x.png"
 }, {
   "name" : "Polizeistandort Colditz",
@@ -968,19 +968,19 @@
   "zone" : 1,
   "description" : "\nIst der Polizeistandort nicht besetzt, wendet euch  an das übergeordnete Polizeirevier Grimma",
   "opening_hours" : "Dienstag von 15:00 Uhr bis 18:00 Uhr sowie\nDonnerstag von 9:00 Uhr bis 12:00 Uhr",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://www.polizei.sachsen.de/de/bilder/PDL/prev-colditz432px.jpg"
 }, {
   "name" : "Katholische Junge Gemeinde \"Sankt Raphael\"",
   "lat" : 51.12642,
   "long" : 12.80637,
   "zone" : 3,
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Evangelische Junge Gemeinde",
   "zone" : 3,
   "description" : "keine Informationen im Internet zu finden",
-  "region" : "colditz"
+  "area" : "colditz"
 }, {
   "name" : "Stadtbibliothek Colditz",
   "lat" : 51.12582,
@@ -988,7 +988,7 @@
   "zone" : 3,
   "description" : "Du musst zur Anmeldung deinen Personalausweis oder ein anderes Personaldokument mitbringen,\nKinder benötigen das Einverständnis eines Erziehungsberechtigten,\nDas Anmeldeformular bekommt ihr in der Bibliothek ",
   "opening_hours" : "Montag 13:00-16:00 Uhr Dienstag 9:00-12:00 Uhr & 13:00-16:00 Uhr Mittwoch geschlossen Donnerstag 13:00-16:00 Uhr Freitag geschlossen Samstag 9:00-12:00 Uhr, ",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/OIP.NorIPhVit5yjkmfnVUb7wwHaH_?rs=1&pid=ImgDetMain"
 }, {
   "name" : "SV Medizin Zschadraß e.V. ",
@@ -997,7 +997,6 @@
   "zone" : 3,
   "description" : "Fußballverein mit Jugendabteilung, auch Gaststätte, Bar, Besprechungsraum, Billardtisch, kann für Feierlichkeiten angemietet werden, auch Facebook",
   "link" : "https://medizin-zschadrass.com/",
-  "region" : "colditz",
+  "area" : "colditz",
   "picture" : "https://th.bing.com/th/id/R.2c8f50d0f776ca3716373d2534c14305?rik=LUIXQDwbzqf9VA&riu=http%3a%2f%2fmedizin-zschadrass.com%2fwp-content%2fuploads%2f2021%2f01%2fIMG_20210127_132655_013-1024x1024.jpg&ehk=Lznux1vWvvtyyBbJTQSCtfqMsO4bbkYzFaCiu5iLDes%3d&risl=&pid=ImgRaw&r=0"
-}
-]
+} ]

@@ -1,0 +1,14 @@
+div.youth-map-popup h1 {
+    font-size: 140%;
+    font-weight: bold;
+}
+
+div.youth-map-popup div.risk {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+span.zone {
+    text-transform: capitalize;
+    font-weight: bold;
+}

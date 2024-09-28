@@ -7,6 +7,12 @@ import reflex as rx
 from loguru import logger
 from pydantic.v1.error_wrappers import ValidationError
 
+BOOMER_ZONE = 1
+SUPPORT_ZONE = 2
+NERD_ZONE = 3
+KOMPROMISS_ZONE = 4
+FREIRAUM_ZONE = 5
+
 
 class Location(rx.Base):
     """The location class"""
@@ -22,18 +28,32 @@ class Location(rx.Base):
     link: str | None
 
     def get_icon(self) -> str:
-        """Get the icon for the location (based on the zone)."""
-        if self.zone == 1:
+        """Get the icon for the location (based on the zone ID)."""
+        if self.zone == BOOMER_ZONE:
             return "/marker-boomer.png"
-        if self.zone == 2:
+        if self.zone == SUPPORT_ZONE:
             return "/marker-support.png"
-        if self.zone == 3:
+        if self.zone == NERD_ZONE:
             return "/marker-nerd.png"
-        if self.zone == 4:
+        if self.zone == KOMPROMISS_ZONE:
             return "/marker-kompromiss.png"
-        if self.zone == 5:
+        if self.zone == FREIRAUM_ZONE:
             return "/marker-freiraum.png"
         return "/marker-unknown.png"
+
+    def get_zone(self) -> str:
+        """Get the zone for the location (based on the zone ID)."""
+        if self.zone == BOOMER_ZONE:
+            return "boomer"
+        if self.zone == SUPPORT_ZONE:
+            return "support"
+        if self.zone == NERD_ZONE:
+            return "nerd"
+        if self.zone == KOMPROMISS_ZONE:
+            return "kompromiss"
+        if self.zone == FREIRAUM_ZONE:
+            return "freiraum"
+        return "unknown"
 
 
 file_path = Path(__file__).parent / "locations.json"

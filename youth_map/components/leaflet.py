@@ -52,7 +52,7 @@ class MapContainer(LeafletLib):
 
     def _get_custom_code(self) -> str:
         return """import "leaflet/dist/leaflet.css";
-import dynamic from 'next/dynamic'
+//import dynamic from 'next/dynamic'
 const MapContainer = dynamic(() => import('react-leaflet').then(
     (mod) => mod.MapContainer), { ssr: false }
 );

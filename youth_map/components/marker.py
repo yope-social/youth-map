@@ -7,6 +7,8 @@ import reflex as rx
 
 
 class Marker(rx.NoSSRComponent):
+    """Leaflet Marker with custom icons"""
+
     # Use an absolute path starting with /public
     library = "/public/marker"
 
