@@ -2,6 +2,7 @@
 
 yope.social youth map
   
+[![workflow](https://github.com/yope-social/youth-map/actions/workflows/check.yml/badge.svg)](https://github.com/yope-social/youth-map/actions)  
 [![poetry][poetry-shield]][poetry-link] [![ruff][ruff-shield]][ruff-link] [![mypy][mypy-shield]][mypy-link] [![copier][copier-shield]][copier] 
 
 ## Development
@@ -9,7 +10,6 @@ yope.social youth map
 - Run [task](https://taskfile.dev/) to see all major development tasks.
 - Use [pre-commit](https://pre-commit.com/) to avoid errors before commit.
 - This repository was created with [this copier template](https://github.com/eccenca/cmem-plugin-template).
-
 
 [poetry-link]: https://python-poetry.org/
 [poetry-shield]: https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json

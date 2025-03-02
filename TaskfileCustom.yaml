@@ -19,9 +19,12 @@ tasks:
   docker:prepare:
     desc: prepare docker/app directory (needs a build)
     cmds:
+      - poetry build
+      - task: requirements:export
       - rm -rf {{.APP_DIR}}
       - mkdir {{.APP_DIR}}
-      - cp -R dist rxconfig.py {{.PACKAGE}} pyproject.toml assets {{.APP_DIR}}
+      - cp -R dist rxconfig.py youth_map pyproject.toml assets {{.APP_DIR}}
+      - cp requirements.txt {{.APP_DIR}}/dist
     vars:
       APP_DIR: docker/app
 
