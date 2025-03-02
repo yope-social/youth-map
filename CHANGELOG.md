@@ -10,6 +10,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 - custom markers for different zone
 - more details on the popups
+- docker image
+
+### Changed
+
+- update to reflex 0.7.1
 
 
 ## [0.5.0] 2024-09-28
