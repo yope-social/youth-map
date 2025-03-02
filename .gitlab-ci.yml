@@ -3,7 +3,7 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 default:
-  image: docker-registry.eccenca.com/eccenca-python:v3.11.9
+  image: docker-registry.eccenca.com/eccenca-python:v3.11.9-2
   # all jobs can be interrupted in case a new commit is pushed
   interruptible: true
   before_script:
