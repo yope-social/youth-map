@@ -16,7 +16,7 @@ class Marker(rx.NoSSRComponent):
     tag = "Marker"
 
     position: rx.Var[list[float]]
-    data: rx.Var[dict[str, str]]
+    data: rx.Var[dict[str, str | float | None]]
 
 
 marker = Marker.create

@@ -27,7 +27,7 @@ def get_markers(area: str | None = None) -> list[rx.Component]:
     return markers
 
 
-def test_page(area: str | None = None) -> rx.Component:
+def map_page(area: str | None = None) -> rx.Component:
     """Provide the data page"""
     center = [51.2727962, 12.8190212]
     zoom = 11

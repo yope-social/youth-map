@@ -2,6 +2,7 @@
 
 https://github.com/reflex-dev/reflex/issues/1291
 """
+# mypy: disable-error-code="override"
 
 from typing import Any
 
@@ -36,8 +37,7 @@ class LeafletLib(rx.Component):
 
     def _render(self, props: dict[str, Any] | None = None) -> Tag:  # noqa: ARG002
         """Define how to render the component in React."""
-        out = super()._render()
-        return out.add_props(style=self.custom_style).remove_props("custom_style")
+        return super()._render()
 
 
 class MapContainer(LeafletLib):
@@ -98,7 +98,7 @@ const Marker = dynamic(markerFuture, { ssr: false });
 
     position: rx.Var[list[float]]
     icon: rx.Var[dict]
-    opacity: rx.Var[float] = 1.0
+    opacity: rx.Var[float]
 
 
 class Popup(LeafletLib):

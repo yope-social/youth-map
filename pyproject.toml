@@ -14,8 +14,6 @@ homepage = "https://github.com/yope-social/youth-map"
 [tool.poetry.dependencies]
 python = ">=3.11, ^3"
 reflex = "^0.7.1"
-faker = "^36.1.1"
-pandas = "^2.2.3"
 loguru = "^0.7.3"
 
 
